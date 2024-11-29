@@ -30,7 +30,7 @@ rectangle.area()|0 2|0|0|OK|13.11.2024
 rectangle.area()|-4 2|8|-8|FAILED|13.11.2024
 triangle.perimetr()|4 2 2|8|8|OK
 triangle.perimetr()|0 2 2|0|4|FAILED|13.11.2024
-triangle.perimetr()|-4 2 2|8|0|FAILED
-triangle.area()|4 2|4|4|OK
-triangle.area()|0 2|0|0|OK
-triangle.area()|-4 2|4|-4|FAILED
+triangle.perimetr()|-4 2 2|8|0|FAILED|13.11.2024
+triangle.area()|4 2|4|4|OK|13.11.2024
+triangle.area()|0 2|0|0|OK|13.11.2024
+triangle.area()|-4 2|4|-4|FAILED|13.11.2024
